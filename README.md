@@ -1,3 +1,9 @@
+# IMPORTANT NOTICE
+
+This repository has been completely removed and should NO LONGER be used. Find the new and improved version at [Backup Manager](http://github.com/backup-manager).
+
+> Seriously, don't use this repo.
+
 # Database Backup Manager
 
 [![Latest Stable Version](https://poser.pugx.org/heybigname/backup-manager/version.png)](https://packagist.org/packages/heybigname/backup-manager)
